@@ -22,7 +22,7 @@
         <p class=" mt-16 text-white leading-normal max-w-4xl">Ever worked on a website and thought, hey, the client hasn't supplied all the images that I need and fed up of using kittens as placeholders? Have no fear. img.pizza is here. </p>
 
         <div class="bg-gray-300 text-gray-600 p-12 my-16 rounded-lg shadow-2xl break-words leading-normal">
-            &lt;img src="//img.pizza/<span class="font-bold text-pink-700">{width}</span>/<span class="text-pink-700 font-bold">{height}</span>" alt="mmm pizza"&gt;
+            &lt;img src="https://img.pizza/<span class="font-bold text-pink-700">{width}</span>/<span class="text-pink-700 font-bold">{height}</span>" alt="mmm pizza"&gt;
         </div>
 
         <p class="mb-16  text-white">Which would load some tasty image like this:</p>

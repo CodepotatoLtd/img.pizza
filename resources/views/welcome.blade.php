@@ -28,7 +28,7 @@
         <p class="mb-16  text-white">Which would load some tasty image like this:</p>
 
         <div class="block-shadow">
-            <img class="shadow-2xl" src="./900/400" alt="mmm pizza">
+            <img class="shadow-2xl" src="{{ url('/900/400') }}" alt="mmm pizza">
         </div>
 
         <p class="my-16">Enjoy!</p>

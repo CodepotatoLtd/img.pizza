@@ -17,7 +17,7 @@
 <body class="bg-pink-600 h-screen antialiased leading-none font-sans">
 
     <div class="container px-8 mx-auto mt-32 text-2xl md:text-3xl text-white">
-        <h1 class="text-7xl text-indigo-400 font-bold mb-36">{{ config('app.name') }}</h1>
+        <h1 class="text-7xl break-words text-indigo-400 font-bold mb-36">{{ config('app.name') }}</h1>
 
         <p class=" mt-16 text-white leading-normal max-w-4xl">Ever worked on a website and thought, hey, the client hasn't supplied all the images that I need and fed up of using kittens as placeholders? Have no fear. img.pizza is here. </p>
 

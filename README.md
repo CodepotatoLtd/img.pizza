@@ -1,4 +1,4 @@
-# img.pizza - For your placeholder image cravings
+# 🍕 img.pizza - For your placeholder image cravings
 
 Ever worked on a website and thought, hey, the client hasn't supplied all the images that I need and fed up of using kittens as placeholders? Have no fear. img.pizza is here.
 

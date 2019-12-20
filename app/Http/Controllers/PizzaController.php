@@ -25,9 +25,12 @@ class PizzaController extends Controller
 
         // . POINT 4
 
+        $width = ( $width > 2000 ? 2000 : $width );
+        $height = ( $height > 2000 ? 2000 : $height );
+
         $smaller = Image::make(storage_path('app/' . $image))->fit( $width, $height );
 
-        return $smaller->response('jpg');
+        return $smaller->response('jpg', '80');
 
     }
 }
